@@ -1,0 +1,21 @@
+{
+  "name": "expressapi01",
+  "version": "1.0.0",
+  "description": "API for study project on node.js and express.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "api"
+  ],
+  "author": "Valeriy Kornienko",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
